@@ -15,6 +15,6 @@
 
 * yyc12345
 
-### Dustish
+### Deutsch
 
 * Krator
