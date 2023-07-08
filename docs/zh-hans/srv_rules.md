@@ -7,7 +7,7 @@
 
 本文将详细介绍本服务器的规则。
 
-如果你认为本文的翻译有待改进，或是希望翻译为一门新语言，请在 Discord 联系`@yyc12345#2755`。
+如果你认为本文的翻译有待改进，或是希望翻译为一门新语言，请在 Discord 联系 `@yyc12345#2755`。
 
 阅读后续内容之前，你需要先熟悉 Discord 的用法。
 
@@ -24,7 +24,7 @@ _如果某一身份组人数达到上限，将会选举决定去留。_
 
 ### 职务身份组
 
-- `record certifier`: 纪录认证员，负责 speedrun.com，Ballance 吧或 `#mission` 成就认证的角色。
+- `record certifier`: 纪录认证员，负责 [speedrun.com](https://www.speedrun.com/ballance)，[Ballance 吧](https://tieba.baidu.com/f?kw=ballance)或 `#mission` 成就认证的角色。
 
 ### 荣誉身份组
 
@@ -85,7 +85,7 @@ _如果某一身份组人数达到上限，将会选举决定去留。_
 - **lobby**: Ballance 联机聊天区，可用于聊天或组队。
 
 - **general**: 综合讨论区，讨论各种 Ballance 相关内容。
-- **skill**: 技术讨论区，讨论游戏技巧和捷径（例如高速球，非 90 度）。
+- **skill**: 技术讨论区，讨论游戏技巧和捷径（例如高速球，非 90 度视角）。
 - **dev**: 开发讨论区，讨论 Ballance 开发相关内容（例如 Virtools）。
 - **missions**: 成就板，一份面向所有 Ballance 玩家的挑战指引。
 - **mapping**: 制图讨论区，讨论 Ballance 制图相关内容。
@@ -107,7 +107,7 @@ _如果某一身份组人数达到上限，将会选举决定去留。_
 
 - 侮辱他人
 - 种族歧视
-- 任何涉及政治、宗教、少儿不宜领域的内容 _（译者注：少儿不宜 ← NSFW）_
+- 任何涉及政治、宗教、[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) 的内容
 - 滥用职权
 - 大量撤回自己的发言（导致上下文割裂）
 - 发送垃圾消息
@@ -119,8 +119,8 @@ _如果某一身份组人数达到上限，将会选举决定去留。_
 ### 在 Ballance 联机服务器中违规
 
 - 游戏内聊天时违反上述条目
-- 攻击联机服务器（包括但不限于 DDoS）
-- 在官方比赛时蓄意犯规或干扰比赛
+- 攻击联机服务器（包括但不限于 [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack)）
+- 在官方比赛中犯规或蓄意干扰比赛
 
 ### 垃圾消息释义
 
